@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T15:29:50 NPT" name="Default suite" finished-at="2024-02-21T15:30:21 NPT" duration-ms="30854">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T15:29:50 NPT" name="Default test" finished-at="2024-02-21T15:30:21 NPT" duration-ms="30854">
+      <class name="demoblazeAutomation.tests.LoginTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:29:50 NPT" name="beforeSuite" finished-at="2024-02-21T15:29:50 NPT" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:29:50 NPT" name="launchBrowser" finished-at="2024-02-21T15:29:59 NPT" duration-ms="8488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:29:59 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-21T15:29:59 NPT" duration-ms="796" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=, message=Please fill out Username and Password., validation=empty, username=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:29:59 NPT" name="teardown" finished-at="2024-02-21T15:30:00 NPT" duration-ms="790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:30:00 NPT" name="launchBrowser" finished-at="2024-02-21T15:30:05 NPT" duration-ms="4431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:30:05 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-21T15:30:06 NPT" duration-ms="1711" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=hello, message=User does not exist., validation=wronguser, username=Jessyca.Kuhic}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:30:06 NPT" name="teardown" finished-at="2024-02-21T15:30:07 NPT" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:30:07 NPT" name="launchBrowser" finished-at="2024-02-21T15:30:11 NPT" duration-ms="4239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:30:11 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-21T15:30:13 NPT" duration-ms="1726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=s3cret, message=Wrong password., validation=wrongpassword, username=hello1x2}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:30:13 NPT" name="teardown" finished-at="2024-02-21T15:30:14 NPT" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:30:14 NPT" name="launchBrowser" finished-at="2024-02-21T15:30:19 NPT" duration-ms="5654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:30:19 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-21T15:30:20 NPT" duration-ms="773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=hello, message=, validation=success, username=hello1x2}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-21T15:30:20 NPT" name="teardown" finished-at="2024-02-21T15:30:21 NPT" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- demoblazeAutomation.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

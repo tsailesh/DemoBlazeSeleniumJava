@@ -1,0 +1,363 @@
+2024-02-20 20:26:09 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:26:09 INFO  Log:31 - Testing When Credentials are empty
+2024-02-20 20:26:09 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:26:15 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:26:15 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:26:15 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:26:21 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:26:21 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:26:21 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:29:32 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:29:32 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:29:39 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:29:39 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:29:39 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:29:46 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:29:46 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:29:46 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:30:28 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:30:28 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:30:33 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:30:33 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:30:33 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:30:38 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:30:38 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:30:38 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:31:38 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:31:38 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:31:43 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:31:43 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:31:43 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:31:48 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:31:48 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:31:48 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:34:01 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:34:01 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:34:06 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:34:06 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:34:06 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:34:12 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:34:12 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:34:12 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:34:43 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:34:43 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:34:48 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:34:48 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:34:48 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:34:55 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:34:55 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:34:55 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:42:12 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:42:12 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:42:17 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:42:17 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:42:17 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:42:23 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:42:23 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:42:23 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:44:49 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:45:10 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:46:38 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:47:02 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:47:21 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:49:28 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:49:28 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:49:28 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:49:34 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:49:34 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:49:34 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:49:39 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:49:39 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:51:10 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:51:10 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:52:08 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:52:08 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:52:08 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:52:13 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:52:13 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:52:13 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:52:20 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:52:20 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:52:42 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:52:42 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:53:41 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:53:41 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:56:30 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:56:30 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 20:56:30 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:56:36 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:56:36 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 20:56:36 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 20:56:42 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 20:56:42 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:00:40 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:00:40 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 21:00:46 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:00:46 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 21:00:52 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:00:52 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:02:12 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:02:12 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 21:02:13 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:02:18 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:02:18 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 21:02:19 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:02:25 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:02:25 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:15:18 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:15:18 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 21:15:25 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:15:25 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 21:15:30 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:15:30 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:15:52 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:15:52 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 21:15:53 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:15:58 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:15:58 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 21:15:59 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:16:06 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:16:06 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:17:48 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:17:48 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 21:17:59 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:18:04 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:18:04 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 21:18:15 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:18:22 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:18:22 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:19:17 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:19:17 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 21:19:30 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:19:36 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:19:36 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 21:19:48 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:19:56 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:19:56 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:23:18 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:23:18 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-20 21:23:31 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:23:37 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:23:37 INFO  Log:31 - Testing When Cred's Are Invalid
+2024-02-20 21:23:50 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-20 21:23:55 INFO  Log:20 - ==========login TEST START ==========
+2024-02-20 21:23:55 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:12:53 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:12:53 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 11:12:53 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:12:53 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 11:12:56 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:12:56 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:13:02 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:13:02 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 11:13:03 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:13:03 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 11:13:10 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:13:10 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 11:13:10 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:13:10 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 11:13:17 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:13:17 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 11:13:18 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:13:18 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 11:13:20 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:13:20 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:17:35 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:17:35 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 11:18:10 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:18:17 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:18:17 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 11:19:39 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:19:39 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 11:19:57 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:19:57 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 11:21:58 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:35:19 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:35:19 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 11:35:23 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:35:28 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:35:28 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:35:33 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:35:33 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:35:38 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:35:38 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:40:07 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:40:07 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 11:40:10 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 11:42:08 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:42:08 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 11:43:15 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 11:43:15 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 11:43:22 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 13:49:51 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:49:51 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 13:49:55 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 13:55:06 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:55:06 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 13:55:07 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 13:55:12 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:55:12 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 13:55:22 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:55:22 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 13:55:27 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:55:27 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 13:55:28 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 13:56:54 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:56:54 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 13:57:01 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 13:57:06 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:57:06 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 13:57:10 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 13:57:15 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:57:15 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 13:57:21 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:57:21 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 13:57:21 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 13:59:45 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:59:45 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 13:59:45 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 13:59:53 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 13:59:53 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:00:18 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:00:18 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:00:27 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:00:27 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:00:42 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:03:54 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:03:54 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 14:03:55 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:04:00 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:04:00 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:04:06 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:04:06 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:04:12 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:04:12 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:04:12 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:05:56 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:05:56 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 14:05:56 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:06:02 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:06:02 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:06:08 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:06:08 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:06:15 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:06:15 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:06:15 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:11:39 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:11:39 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 14:11:47 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:11:54 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:11:54 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:11:59 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:11:59 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:12:04 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:12:04 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:12:05 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:13:14 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:13:14 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:13:19 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:13:19 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:13:25 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:13:25 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:13:31 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:13:31 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:13:32 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:14:17 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:14:17 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:14:23 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:14:23 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:14:30 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:14:30 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:14:31 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:20:20 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:20:20 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:20:26 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:20:26 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:20:32 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:20:32 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:20:33 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:23:01 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:23:01 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:26:26 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:26:48 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:26:48 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:29:16 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:29:22 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:29:22 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:29:34 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:31:50 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:31:50 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:31:56 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:31:56 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:32:01 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:32:01 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:32:02 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:32:39 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:32:39 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:32:45 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:32:45 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:32:51 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:32:51 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:32:52 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:47:22 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:47:22 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:47:28 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:47:28 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:47:38 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:47:38 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:48:41 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:48:46 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:48:46 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:50:14 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:50:14 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:51:38 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:51:45 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:51:45 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:51:57 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:52:02 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:52:02 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:52:03 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:54:12 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:54:12 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:54:18 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:54:18 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:54:25 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:54:25 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:54:25 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:55:25 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:55:25 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:55:31 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:55:31 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:55:37 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:55:37 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:55:38 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:57:37 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:57:37 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:57:39 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:57:44 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:57:44 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:57:46 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:57:51 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:57:51 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:57:52 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:58:21 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:58:21 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 14:58:22 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:58:27 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:58:27 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 14:58:30 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:58:36 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:58:36 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 14:58:38 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 14:58:43 INFO  Log:20 - ==========login TEST START ==========
+2024-02-21 14:58:43 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 14:58:43 INFO  Log:24 - ==========Login Test Completed TEST ENDED ==========
+2024-02-21 15:29:59 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 15:30:05 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 15:30:11 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 15:30:19 INFO  Log:31 - Testing When Cred's Are Valid
+2024-02-21 15:31:49 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 15:31:54 INFO  Log:31 - Testing When Username Is Invalid
+2024-02-21 15:32:01 INFO  Log:31 - Testing When Password is Invalid
+2024-02-21 15:37:53 INFO  Log:31 - Testing When Credentials are empty
+2024-02-21 15:39:28 INFO  Log:31 - Testing When Credentials are empty

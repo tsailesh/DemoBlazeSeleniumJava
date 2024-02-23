@@ -1,0 +1,26 @@
+[
+	{
+		"username": "",
+		"password": "",
+		"validation": "empty",
+		"message": "Please fill out Username and Password."
+	},
+	{
+		"username": "Jessyca.Kuhic",
+		"password": "hello",
+		"validation": "wronguser",
+		"message": "User does not exist."
+	},
+	{
+		"username": "hello1x2",
+		"password": "s3cret",
+		"validation": "wrongpassword",
+		"message": "Wrong password."
+	},
+	{
+		"username": "hello1x2",
+		"password": "hello",
+		"validation": "success",
+		"message": ""
+	}
+]
