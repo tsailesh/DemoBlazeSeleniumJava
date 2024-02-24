@@ -5,12 +5,10 @@
 package demoblazeAutomation.tests;
 
 import org.testng.annotations.Test;
-import org.testng.AssertJUnit;
 import java.util.HashMap;
 import java.util.List;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
-import org.testng.annotations.Test;
 import demoblazeAutomation.base.BaseClass;
 import demoblazeAutomation.utilities.DataReader;
 import demoblazeAutomation.utilities.Log;
@@ -28,21 +26,21 @@ public class LoginTest extends BaseClass{
 			Log.info("Testing When Credentials are empty");
 			login.loginToPage(datas.get("username"), datas.get("password"));
 			String message = login.getAlertText();
-			AssertJUnit.assertEquals(message,datas.get("message"),"Message when username and password are empty didnot match");
+			Assert.assertEquals(message,datas.get("message"),"Message when username and password are empty didnot match");
 		} 
 		else if (datas.get("validation").equals("wronguser")) 
 		{
 			Log.info("Testing When Username Is Invalid");
 			login.loginToPage(datas.get("username"), datas.get("password"));
 			String message = login.getAlertText();
-			AssertJUnit.assertEquals(message,datas.get("message"),"Message when username is invalid didnot match");
+			Assert.assertEquals(message,datas.get("message"),"Message when username is invalid didnot match");
 		} 
 		else if(datas.get("validation").equals("wrongpassword"))
 		{
 			Log.info("Testing When Password is Invalid");
 			login.loginToPage(datas.get("username"), datas.get("password"));
 			String message = login.getAlertText();
-			AssertJUnit.assertEquals(message,datas.get("message"),"Message when password is invalid didnot match");
+			Assert.assertEquals(message,datas.get("message"),"Message when password is invalid didnot match");
 		}
 		else if(datas.get("validation").equals("success"))
 		{
