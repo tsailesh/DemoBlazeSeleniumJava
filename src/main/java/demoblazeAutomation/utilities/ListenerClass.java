@@ -46,15 +46,6 @@ public class ListenerClass implements ITestListener {
 	@Override
 	public void onTestFailure(ITestResult result) {
 		String destinationScreenshotPath = null;
-		WebDriver driver = null;
-		try {
-			driver = (WebDriver) result.getTestClass().getRealClass().getField("driver").get(result.getInstance());
-			destinationScreenshotPath = CaptureScreenshot.getScreenshot(result.getMethod().getMethodName(), driver);
-		} catch (IllegalArgumentException | NoSuchFieldException | SecurityException e) {
-			e.printStackTrace();
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
 		extentLocal.get().addScreenCaptureFromPath(destinationScreenshotPath);
 		extentLocal.get().log(Status.INFO, result.getThrowable());
 		extentLocal.get().log(Status.FAIL, result.getName() + " got failed");

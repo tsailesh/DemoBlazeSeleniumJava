@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-25T18:53:23 NPT" name="Default suite" finished-at="2024-02-25T18:53:52 NPT" duration-ms="29496">
+  <suite started-at="2024-02-25T19:12:47 NPT" name="Default suite" finished-at="2024-02-25T19:13:21 NPT" duration-ms="33483">
     <groups>
     </groups>
-    <test started-at="2024-02-25T18:53:23 NPT" name="Default test" finished-at="2024-02-25T18:53:52 NPT" duration-ms="29496">
+    <test started-at="2024-02-25T19:12:47 NPT" name="Default test" finished-at="2024-02-25T19:13:21 NPT" duration-ms="33483">
       <class name="demoblazeAutomation.tests.LoginTest">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:23 NPT" name="beforeSuite" finished-at="2024-02-25T18:53:23 NPT" duration-ms="221" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:12:47 NPT" name="beforeSuite" finished-at="2024-02-25T19:12:47 NPT" duration-ms="392" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:23 NPT" name="launchBrowser" finished-at="2024-02-25T18:53:29 NPT" duration-ms="6057" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:12:48 NPT" name="launchBrowser" finished-at="2024-02-25T19:12:54 NPT" duration-ms="6924" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:29 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-25T18:53:30 NPT" duration-ms="770" status="PASS">
+        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:12:54 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-25T19:12:56 NPT" duration-ms="1193" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,15 +26,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:30 NPT" name="teardown" finished-at="2024-02-25T18:53:31 NPT" duration-ms="664" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:12:56 NPT" name="teardown" finished-at="2024-02-25T19:12:56 NPT" duration-ms="737" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:31 NPT" name="launchBrowser" finished-at="2024-02-25T18:53:35 NPT" duration-ms="4847" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:12:56 NPT" name="launchBrowser" finished-at="2024-02-25T19:13:01 NPT" duration-ms="5022" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:35 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-25T18:53:37 NPT" duration-ms="1714" status="PASS">
+        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:13:01 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-25T19:13:04 NPT" duration-ms="2090" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -45,15 +45,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:37 NPT" name="teardown" finished-at="2024-02-25T18:53:38 NPT" duration-ms="594" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:13:04 NPT" name="teardown" finished-at="2024-02-25T19:13:04 NPT" duration-ms="609" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:38 NPT" name="launchBrowser" finished-at="2024-02-25T18:53:42 NPT" duration-ms="4458" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:13:04 NPT" name="launchBrowser" finished-at="2024-02-25T19:13:09 NPT" duration-ms="5179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:42 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-25T18:53:44 NPT" duration-ms="1654" status="PASS">
+        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:13:09 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-25T19:13:11 NPT" duration-ms="2027" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -64,15 +64,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:44 NPT" name="teardown" finished-at="2024-02-25T18:53:44 NPT" duration-ms="588" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:13:11 NPT" name="teardown" finished-at="2024-02-25T19:13:12 NPT" duration-ms="616" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:44 NPT" name="launchBrowser" finished-at="2024-02-25T18:53:49 NPT" duration-ms="4120" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:13:12 NPT" name="launchBrowser" finished-at="2024-02-25T19:13:17 NPT" duration-ms="4648" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:49 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-25T18:53:52 NPT" duration-ms="3329" status="PASS">
+        <test-method signature="login(java.util.HashMap)[pri:1, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:13:17 NPT" name="login" data-provider="loginDataFromJSON" finished-at="2024-02-25T19:13:20 NPT" duration-ms="3329" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -83,7 +83,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T18:53:52 NPT" name="teardown" finished-at="2024-02-25T18:53:52 NPT" duration-ms="472" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demoblazeAutomation.tests.LoginTest@11392934]" started-at="2024-02-25T19:13:20 NPT" name="teardown" finished-at="2024-02-25T19:13:21 NPT" duration-ms="675" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

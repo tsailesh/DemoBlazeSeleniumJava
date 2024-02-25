@@ -47,7 +47,6 @@ public class LoginTest extends BaseClass{
 			Log.info("Testing When Cred's Are Valid");
 			login.loginToPage(datas.get("username"), datas.get("password"));
 			String username = login.getUserName();
-			System.err.println(username+" IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII");
 			Assert.assertTrue(username.contains(datas.get("username")),"Text does not contain username");
 		}
 	}
