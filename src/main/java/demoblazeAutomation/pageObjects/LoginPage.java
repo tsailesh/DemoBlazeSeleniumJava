@@ -32,6 +32,9 @@ public class LoginPage extends Action {
 
 	@FindBy(id = "loginpassword")
 	private static WebElement passwordLocator;
+	
+	@FindBy(id="nameofuser")
+	private static WebElement successLoginText;
 
 	private void openLoginForm() {
 		try {
@@ -99,5 +102,16 @@ public class LoginPage extends Action {
 		}	
 		return null;
 	}
+	
 
+	public String getUserName() {
+		try {
+			waitForVisibilityOfElement(successLoginText, 5000);
+			return successLoginText.getText();
+		}catch(Exception e) {
+		e.printStackTrace();	
+		}
+		return null;
+	}
+	
 }

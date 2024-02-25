@@ -8,7 +8,7 @@
           <include name="launchBrowser"/>
           <include name="teardown"/>
           <include name="beforeSuite"/>
-          <include name="login" invocation-numbers="0 1"/>
+          <include name="login" invocation-numbers="3"/>
         </methods>
       </class> <!-- demoblazeAutomation.tests.LoginTest -->
     </classes>
