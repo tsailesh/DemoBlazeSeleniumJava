@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 <listeners>
-	<listener class-name="demoblazeAutomation.utilities.ListenerClass"/>
+	<listener class-name="demoblazeAutomation.testComponents.ListenerClass"/>
 </listeners>
   <test name="Test">
     <classes>

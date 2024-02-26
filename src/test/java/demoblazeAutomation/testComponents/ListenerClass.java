@@ -2,14 +2,13 @@
  * @auther sailesh
  *
  */
-package demoblazeAutomation.utilities;
+package demoblazeAutomation.testComponents;
 
 /**
 *
 * @author:sailesh
 *
 */
-/*
 import java.awt.Desktop;
 import java.io.File;
 import java.io.IOException;
@@ -20,9 +19,11 @@ import org.testng.ITestResult;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
+import demoblazeAutomation.utilities.CaptureScreenshot;
+import demoblazeAutomation.utilities.ExtentReporterNG;
 
 
-public class ListenerClass implements ITestListener {
+public class ListenerClass extends BaseClass implements ITestListener {
 
 	ExtentReports extentReport;
 	ExtentTest extentTest;
@@ -60,15 +61,12 @@ public class ListenerClass implements ITestListener {
 		extentLocal.get().addScreenCaptureFromPath(destinationScreenshotPath);
 		extentLocal.get().log(Status.INFO, result.getThrowable());
 		extentLocal.get().log(Status.FAIL, result.getName() + " got failed");
-
 	}
 
 	@Override
 	public void onTestSkipped(ITestResult result) {
-
 		extentLocal.get().log(Status.INFO, result.getThrowable());
 		extentLocal.get().log(Status.SKIP, result.getName() + " got skipped");
-
 	}
 
 	@Override
@@ -81,9 +79,6 @@ public class ListenerClass implements ITestListener {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
 	}
-
 }
 
-*/

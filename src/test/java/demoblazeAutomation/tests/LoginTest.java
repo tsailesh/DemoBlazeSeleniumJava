@@ -4,12 +4,14 @@
  */
 package demoblazeAutomation.tests;
 
-import org.testng.annotations.Test;
 import java.util.HashMap;
 import java.util.List;
+
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
-import demoblazeAutomation.base.BaseClass;
+import org.testng.annotations.Test;
+
+import demoblazeAutomation.testComponents.BaseClass;
 import demoblazeAutomation.utilities.DataReader;
 import demoblazeAutomation.utilities.Log;
 
